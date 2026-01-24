@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋! My name is Timur and I'm an AI & Software Engineer, from Russia.</h2>
 
-🔭 I’m currently working on **SearLLM** - an LLM-powered search API
+🔭 I’m currently working on agentic systems of broad spectrum
 
 ###
 
